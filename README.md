@@ -1,8 +1,8 @@
 # Hi 👋, I'm Vikas Kumar
 
-💻 B.Tech in Mechatronics Engineering  
-⚡ Passionate about Robotics, IoT, and Full-Stack Development  
-🚀 Currently working on projects using **React.js, Node.js, Express.js, MongoDB**  
+💻 B.Tech in Mechatronics Engineering. 
+⚡ Passionate about Full-Stack Development and Machine Learning.  
+🚀 Currently working on projects using **React.js, Node.js, Express.js, MongoDB**.
 
 ---
 
