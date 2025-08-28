@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vikas Kumar</h1>
-<p align="left">
+<p align="center">
   <b>An Avid Learner | Mechatronics Engineering from IIIT Bhagalpur</b>
 </p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=VikasKumar281&color=green)
-<p align="right">
-  <img src="https://raw.githubusercontent.com/VikasKumar281/VikasKumar281/main/your-cartoon.png" width="400"/>
-</p>
 
 <!-- Badges / Contact -->
 <p align="center">
@@ -57,12 +54,6 @@
 </p>
 
 ---
-
-## 📈 GitHub Streak Stats  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VikasKumar281&theme=tokyonight-duo&hide_border=true" alt="Vikas's streak"/>
-</p>
-
 
 ## 🌐 Connect With Me  
 <p align="center">
