@@ -72,7 +72,8 @@
 
 ## 🐍 My Contribution Graph
 
-![snake gif](https://github.com/VikasKumar281/VikasKumar281/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/VikasKumar281/VikasKumar281/blob/output/github-contribution-grid-snake.gif)
+
 
 
 ⭐️ From [VikasKumar281](https://github.com/VikasKumar281)
