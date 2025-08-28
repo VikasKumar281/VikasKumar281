@@ -2,7 +2,6 @@
 <p align="center">
   <b>An Avid Learner | Mechatronics Engineering from IIIT Bhagalpur</b>
 </p>
-
 ![Profile views](https://komarev.com/ghpvc/?username=VikasKumar281&color=green)
 
 <!-- Badges / Contact -->
