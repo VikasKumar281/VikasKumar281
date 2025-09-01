@@ -55,19 +55,9 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VikasKumar281&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
 ## 🔥 Streak Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=VikasKumar281&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</p>
-
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VikasKumar281&theme=react-dark" alt="Contribution Graph" />
 </p>
 
 ## 🌐 Connect With Me  
