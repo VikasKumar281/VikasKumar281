@@ -16,9 +16,13 @@
 
 ## 🚀 About Me  
 - 🌱 I’m a **Full Stack Developer (MERN)**  
-- 🔭 Currently exploring **Machine Learning**  
+- 🔭 Currently exploring **Machine Learning**
+- 🤝 I’m looking to collaborate on **Software Engineering**
 - 💡 I love building **real-world apps and dev tools**  
-- 📫 Reach me at: **vikas.2201223me@iiitbh.ac.in**  
+- 📫 Reach me at: **vikas.2201223me@iiitbh.ac.in**
+- 💬 Ask me about **React, Node.js, JavaScript, C, C++, OOPs, OS , DBMS, SQL  :)**
+- ⚡ Fun fact **I sometimes talk to my code, and yes… it talks back**🤖
+
 ---
 
 ## 💻 Tech Stack
