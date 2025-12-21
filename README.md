@@ -66,8 +66,9 @@
 
 ## 🔥 Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VikasKumar281&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=VikasKumar281&theme=highcontrast&hide_border=false" />
 </p>
+
 
 ## 🌐 Connect With Me  
 <p align="center">
