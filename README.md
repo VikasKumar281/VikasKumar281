@@ -66,7 +66,7 @@
 
 ## 🔥 Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=VikasKumar281&theme=highcontrast&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=VikasKumar281&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 
