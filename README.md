@@ -1,32 +1,5 @@
-<!-- <h1 align="center">Hi 👋, I'm Vikas Kumar</h1>
-<p align="center">
-  <b>An Avid Learner | Mechatronics Engineering Student at IIIT Bhagalpur</b>
-</p>
-
-
-
-
-
-![Profile views](https://komarev.com/ghpvc/?username=VikasKumar281&color=green)
-
-
-
-<!-- Badges / Contact -->
-<!-- <p align="center">
- <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vikaskumar280204@gmail.com">
-  <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white">
- </a>
-  <a href="https://github.com/VikasKumar281"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://leetcode.com/u/vikaskumar281/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
-  <a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
-  </a>
-</p> -->
-
----
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Vikas+Kumar;Full+Stack+Developer+(MERN);Mechatronics+Engineering+Student;Problem+Solver+%26+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Vikas+Kumar;Full+Stack+Developer+(MERN);Mechatronics+Engineering+Student;Problem+Solver+%26+Tech Enthusiast" alt="Typing SVG" />
 </h1>
 
 <p align="center">
