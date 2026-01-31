@@ -125,30 +125,22 @@
 ## 🎉 Fun Facts About Me
 
 ```javascript
-const vikas = {
+const shubham = {
     pronouns: "He/Him",
     location: "India 🇮🇳",
     languages: ["English", "Hindi"],
-    hobbies: [
-        "Coding",
-        "Building Web Apps",
-        "Exploring New Technologies",
-        "Open Source",
-        "Traveling",
-        "Badminton & Football"
-    ],
-    funFact: "I enjoy debugging complex problems more than writing simple code ☕",
-    currentlyListeningTo: "Lo-fi / Hindi Indie 🎵",
+    hobbies: ["Coding", "Reading Tech Blogs", "Open Source", "Valorant","Traveling"],
+    funFact: "I can debug code faster with coffee ☕",
+    currentlyListeningTo: "Kaafizyada:Nanku 🎵",
     askMeAbout: [
-        "Full-Stack Web Development",
-        "React & Node.js",
-        "Backend APIs",
-        "Databases",
-        "System Design Basics",
+        "Web Development",
+        "Cloud Architecture", 
+        "DevOps Practices",
+        "System Design",
         "Open Source Contribution"
     ],
-    favoriteEditor: "VS Code with minimal dark theme 🎨",
-    workingOn: "Improving my skills and building real-world projects 🚀"
+    favoriteEditor: "VS Code with custom theme 🎨",
+    workingOn: "Building something awesome! 🚀"
 };
 ```
 
