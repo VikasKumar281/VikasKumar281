@@ -111,17 +111,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Vikaskumar281/Vikaskumar281/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
-<div align="center">
-
-
 ## 🎉 Fun Facts About Me
 
 ```javascript
@@ -132,13 +121,12 @@ const vikas = {
   hobbies: [
     "Coding",
     "Building Web Apps",
-    "Open Source",
+    "Open Source Contribution",
     "Traveling",
     "Badminton",
     "Football"
   ],
   funFact: "I enjoy debugging complex problems with a cup of coffee ☕",
-  currentlyListeningTo: "Kaafi Zyada by Nanku 🎵",
   askMeAbout: [
     "Full Stack Web Development",
     "React & Node.js",
@@ -154,6 +142,16 @@ const vikas = {
 ```
 
 ---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Vikaskumar281/Vikaskumar281/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+<div align="center">
 
 
 
