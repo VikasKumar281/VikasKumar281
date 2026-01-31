@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vikas Kumar</h1>
 <p align="center">
-  <b>An Avid Learner | Mechatronics Engineering from IIIT Bhagalpur</b>
+  <b>An Avid Learner | Mechatronics Engineering Student at IIIT Bhagalpur</b>
 </p>
 
 
@@ -31,7 +31,7 @@
 - 🔭 Currently exploring **Machine Learning**
 - 🤝 I’m looking to collaborate on **Software Engineering**
 - 💡 I love building **real-world apps and dev tools**  
-- 📫 Reach me at: **vikas.2201223me@iiitbh.ac.in**
+- 📫 Reach me at: **vikaskumar280204@gmail.com**
 - 💬 Ask me about **React, Node.js, JavaScript, C, C++, OOPs, OS , DBMS, SQL  :)**
 - ⚡ Fun fact **I sometimes talk to my code, and yes… it talks back**🤖
 
@@ -125,30 +125,39 @@
 ## 🎉 Fun Facts About Me
 
 ```javascript
-const shubham = {
-    pronouns: "He/Him",
-    location: "India 🇮🇳",
-    languages: ["English", "Hindi"],
-    hobbies: ["Coding", "Reading Tech Blogs", "Open Source", "Valorant","Traveling"],
-    funFact: "I can debug code faster with coffee ☕",
-    currentlyListeningTo: "Kaafizyada:Nanku 🎵",
-    askMeAbout: [
-        "Web Development",
-        "Cloud Architecture", 
-        "DevOps Practices",
-        "System Design",
-        "Open Source Contribution"
-    ],
-    favoriteEditor: "VS Code with custom theme 🎨",
-    workingOn: "Building something awesome! 🚀"
+const vikas = {
+  pronouns: "He/Him",
+  location: "India 🇮🇳",
+  languages: ["English", "Hindi"],
+  hobbies: [
+    "Coding",
+    "Building Web Apps",
+    "Open Source",
+    "Traveling",
+    "Badminton",
+    "Football"
+  ],
+  funFact: "I enjoy debugging complex problems with a cup of coffee ☕",
+  currentlyListeningTo: "Kaafi Zyada by Nanku 🎵",
+  askMeAbout: [
+    "Full Stack Web Development",
+    "React & Node.js",
+    "Backend APIs",
+    "Databases",
+    "System Design Basics",
+    "Open Source Contribution"
+  ],
+  favoriteEditor: "VS Code (Dark Theme) 🎨",
+  workingOn: "Building real-world projects and improving every day 🚀"
 };
+
 ```
 
 ---
 
 
 
-### 💭 Dev Quote
+### 💭 Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
