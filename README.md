@@ -121,6 +121,10 @@
 
 <div align="center">
 
+
+## 🎉 Fun Facts About Me
+
+```javascript
 const vikas = {
     pronouns: "He/Him",
     location: "India 🇮🇳",
@@ -146,6 +150,9 @@ const vikas = {
     favoriteEditor: "VS Code with minimal dark theme 🎨",
     workingOn: "Improving my skills and building real-world projects 🚀"
 };
+```
+
+---
 
 
 
