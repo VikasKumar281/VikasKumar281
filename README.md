@@ -114,13 +114,61 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/04shubham7/04shubham7/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Vikaskumar281/Vikaskumar281/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
 
 <div align="center">
 
+const vikas = {
+    pronouns: "He/Him",
+    location: "India 🇮🇳",
+    languages: ["English", "Hindi"],
+    hobbies: [
+        "Coding",
+        "Building Web Apps",
+        "Exploring New Technologies",
+        "Open Source",
+        "Traveling",
+        "Badminton & Football"
+    ],
+    funFact: "I enjoy debugging complex problems more than writing simple code ☕",
+    currentlyListeningTo: "Lo-fi / Hindi Indie 🎵",
+    askMeAbout: [
+        "Full-Stack Web Development",
+        "React & Node.js",
+        "Backend APIs",
+        "Databases",
+        "System Design Basics",
+        "Open Source Contribution"
+    ],
+    favoriteEditor: "VS Code with minimal dark theme 🎨",
+    workingOn: "Improving my skills and building real-world projects 🚀"
+};
 
 
-⭐️ From [VikasKumar281](https://github.com/VikasKumar281)
+
+### 💭 Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+### Like what you see? Show some ❤️ by starring the repositories ⭐
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+</p>
+
+<div align="center">
+  
+  ![Profile Last Updated](https://img.shields.io/github/last-commit/Vikaskumar281/Vikaskumar281?label=Profile%20Updated&style=flat-square)
+  
+  **Thanks for visiting! Let’s keep creating and growing 🚀🌱**
+  
+</div>
