@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vikas Kumar</h1>
+<!-- <h1 align="center">Hi 👋, I'm Vikas Kumar</h1>
 <p align="center">
   <b>An Avid Learner | Mechatronics Engineering Student at IIIT Bhagalpur</b>
 </p>
@@ -12,7 +12,7 @@
 
 
 <!-- Badges / Contact -->
-<p align="center">
+<!-- <p align="center">
  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vikaskumar280204@gmail.com">
   <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white">
  </a>
@@ -21,19 +21,59 @@
   <a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/">
     <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
   </a>
+</p> -->
+
+---
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Vikas+Kumar;Full+Stack+Developer+(MERN);Mechatronics+Engineering+Student;Problem+Solver+%26+Builder" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+Real-World+Web+Applications;Exploring+Machine+Learning;Always+Learning+%7C+Always+Improving" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Vikaskumar281">
+    <img src="https://komarev.com/ghpvc/?username=Vikaskumar281&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+  </a>
+  <a href="https://github.com/Vikaskumar281?tab=followers">
+    <img src="https://img.shields.io/github/followers/Vikaskumar281?label=Followers&style=social" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/Vikaskumar281?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FVikaskumar281&style=flat-square&color=blue" alt="Repositories" />
+  </a>
 </p>
 
 ---
 
+## 👨‍💻 About Me
 
-## 🚀 About Me  
-- 🌱 I’m a **Full Stack Developer (MERN)**  
-- 🔭 Currently exploring **Machine Learning**
-- 🤝 I’m looking to collaborate on **Software Engineering**
-- 💡 I love building **real-world apps and dev tools**  
-- 📫 Reach me at: **vikaskumar280204@gmail.com**
-- 💬 Ask me about **React, Node.js, JavaScript, C, C++, OOPs, OS , DBMS, SQL  :)**
-- ⚡ Fun fact **I sometimes talk to my code, and yes… it talks back**🤖
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+I'm a **passionate Full Stack Developer (MERN)** and a **Mechatronics Engineering student at IIIT Bhagalpur**.  
+I enjoy building scalable web applications, solving real-world problems, and continuously learning new technologies.
+
+### 🚀 What I'm Up To
+
+- 🔭 **Currently Working On:** Full-stack web applications and backend APIs  
+- 🌱 **Currently Learning:** Machine Learning and system design fundamentals  
+- 💡 **Interests:** Web development, backend systems, databases, and ML  
+- 🤝 **Open to:** Software engineering collaborations and open-source projects  
+- 💬 **Ask Me About:** React, Node.js, JavaScript, C, C++, OOPs, OS, DBMS, SQL  
+- ⚡ **Fun Fact:** I sometimes talk to my code—and yes, it talks back 🤖  
+- 📫 **Reach Me:** vikaskumar280204@gmail.com
+
+### 🎯 Current Goals
+
+- 🚀 Build impactful real-world projects  
+- 🧠 Strengthen DSA and system design foundations  
+- 🌱 Explore ML alongside full-stack development  
+- 🤝 Contribute to open-source projects  
+- 📚 Keep learning and improving every day
+
+---
+
 
 ---
 
