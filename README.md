@@ -37,7 +37,7 @@ I enjoy building scalable web applications, solving real-world problems, and con
 - 📫 **Reach Me:** vikaskumar280204@gmail.com
 
 ### 🎯 Current Goals
-
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 - 🚀 Build impactful real-world projects  
 - 🧠 Strengthen DSA and system design foundations  
 - 🌱 Explore ML alongside full-stack development  
@@ -124,9 +124,6 @@ I enjoy building scalable web applications, solving real-world problems, and con
 ---
 
 ## 🎉 Fun Facts About Me
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
 ```javascript
 const vikas = {
   pronouns: "He/Him",
