@@ -15,11 +15,11 @@
     <img src="https://img.shields.io/github/followers/VikasKumar281?label=Followers&style=social" alt="GitHub followers" />
   </a>
 
-  <a href="https://github.com/VikasKumar281?tab=repositories">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/VikasKumar281&query=$.public_repos&label=Repositories&logo=github&style=flat-square&color=blue" alt="Repositories" />
-  </a>
+<a href="https://github.com/VikasKumar281?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-25-blue?logo=github&style=flat-square" alt="Repositories"/>
+</a>
 </p>
----
+
 
 ## 👨‍💻 About Me
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
