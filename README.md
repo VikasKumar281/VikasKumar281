@@ -15,9 +15,10 @@
     <img src="https://img.shields.io/github/followers/VikasKumar281?label=Followers&style=social" alt="GitHub followers" />
   </a>
 
-<a href="https://github.com/VikasKumar281?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-25-blue?logo=github&style=flat-square" alt="Repositories"/>
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VikasKumar281&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
 </p>
 
 
