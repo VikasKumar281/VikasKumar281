@@ -7,17 +7,18 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Vikaskumar281">
-    <img src="https://komarev.com/ghpvc/?username=Vikaskumar281&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <a href="https://github.com/VikasKumar281">
+    <img src="https://komarev.com/ghpvc/?username=VikasKumar281&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
   </a>
-  <a href="https://github.com/Vikaskumar281?tab=followers">
-    <img src="https://img.shields.io/github/followers/Vikaskumar281?label=Followers&style=social" alt="GitHub followers" />
+
+  <a href="https://github.com/VikasKumar281?tab=followers">
+    <img src="https://img.shields.io/github/followers/VikasKumar281?label=Followers&style=social" alt="GitHub followers" />
   </a>
-  <a href="https://github.com/Vikaskumar281?tab=repositories">
-    <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FVikaskumar281&style=flat-square&color=blue" alt="Repositories" />
+
+  <a href="https://github.com/VikasKumar281?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/VikasKumar281&query=$.public_repos&label=Repositories&logo=github&style=flat-square&color=blue" alt="Repositories" />
   </a>
 </p>
-
 ---
 
 ## 👨‍💻 About Me
