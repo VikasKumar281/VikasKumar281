@@ -16,7 +16,7 @@
   </a>
   
 <a href="https://github.com/VikasKumar281?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-30-blue?logo=github&style=flat-square" alt="Repositories"/>
+  <img src="https://img.shields.io/badge/Repositories-31-blue?logo=github&style=flat-square" alt="Repositories"/>
 </a>
 
 </p>
